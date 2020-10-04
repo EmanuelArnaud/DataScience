@@ -1,0 +1,8 @@
+Activity
+This activity was solicited to the course of Data Science I at the Instituto Metrópole Digital, part of the Universidade Federal do Rio Grande do Norte, in Natal, Brazil. Recreate the image used by Financial Times, with data from Google Mobility Report, adapted to a chosen context.
+
+Objective
+Practice the initial knowledge about Data Science in a recent application, stimulating creativity and creating a professional portfolio.
+
+Methods
+In this project we will see the social mobility in the brazilian cities of Natal and Belém and compare one to another and to the other capitals of the brazilian states. For this purpose, the moving average will be used.
