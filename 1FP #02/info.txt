@@ -1,0 +1,5 @@
+This project talks about the results of a data visualization project in the context of the Google Play Store Apps Review. The Google Play Store is one of the most used digital distribution services in the world, with tons of apps and users. Because of it, there are a lot of data available regarding the apps and it's users avaliations. 
+The project was solicited as part of the course of Data Science I at the Instituto Metrópole Digital, part of the Universidade Federal do Rio Grande do Norte, in Natal, Brazil with objective of practicing the subjects learned in class.
+Methods
+In this project we will search for trends in the Google Play Store Apps dataset available in Kaggle. For thus purpose, we will determine some initial hypothesis and try to find informations that help to consolidate it. We are going to work in this project with Python using Google Colab.
+The code used for this project is available in this GitHub repository.
